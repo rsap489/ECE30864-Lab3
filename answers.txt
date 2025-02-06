@@ -8,3 +8,6 @@ Cons:
 1. Frequent changes may disrupt team productivity and cause scope creep.
 2. Requires consistent and constant communication and collaboration.
 
+b.
+
+The scrum master is responsible for ensuring the Scrum process is being followed, facilitating the teams progress and removing obstacles. The product owner is responsible for defining the product vision, managing the backlag, and ensuring team members deliver value. 
