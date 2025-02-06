@@ -1,1 +1,10 @@
+a. 
+
+Pros:
+1. Flexibility: Agile allows teams to respond to changes in requirements and feedback quickly.
+2. Continuous improvement: Regular feedback loops and iterative development allow teams to improve the product and processes continuously.
+
+Cons:
+1. Frequent changes may disrupt team productivity and cause scope creep.
+2. Requires consistent and constant communication and collaboration.
 
