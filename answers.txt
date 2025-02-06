@@ -17,3 +17,10 @@ c.
 1. Spring planning meeting. Determine what to finish in the upcoming spring and determine story points and assign stories.
 2. Standup Meeting. Discuss work completed and work plan for the day.
 3. Spring retrospective meeting. Discuss work completed and incomplete work in backlog.
+
+d. 
+
+Epic: captures large body of work that can be broken down into smaller components.
+Story: Software system requirement in a few short sentences
+Bug: A piece of functionality that is not working as intended.
+Task: A unit of work to be completed to finish a story. 
