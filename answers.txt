@@ -11,3 +11,9 @@ Cons:
 b.
 
 The scrum master is responsible for ensuring the Scrum process is being followed, facilitating the teams progress and removing obstacles. The product owner is responsible for defining the product vision, managing the backlag, and ensuring team members deliver value. 
+
+c. 
+
+1. Spring planning meeting. Determine what to finish in the upcoming spring and determine story points and assign stories.
+2. Standup Meeting. Discuss work completed and work plan for the day.
+3. Spring retrospective meeting. Discuss work completed and incomplete work in backlog.
